@@ -1,0 +1,29 @@
+body{
+font-family: Georgia; /*fondi tüüp*/
+color: blue; /*teksti värv*/
+}
+h2{
+    border: dotted 2px black; /*dashed, outline,double, double, ääris*/
+    padding: 1%; /*vahe tekstist ääriseni*/
+    margin: 10px; /*vahe veebilehe piirist ääriseni*/
+    border-radius: 100px;
+    width: 60%; /*laius*/
+    background-color:cornflowerblue; /*tausta värv*/
+}
+ul{
+    list-style-type: square; /*markeri tüüp - square, */
+    padding:5px;
+    background-color: darkblue;
+}
+
+ul li{
+    background-color: aqua;
+    padding:5px;
+}
+table{
+    width: 60%;
+    border: solid 2px blue;
+    border-collapse: collapse; /*ühine ääris*/
+    text-align: center; /*teksti joondamine keskele*/
+    background-color: darkblue;
+}
