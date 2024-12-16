@@ -1,0 +1,25 @@
+table#lihtne{
+    /*html failis id=lihtne*/
+    width: 60%;
+    border: 1px solid black;
+    text-align: center; /*teksti joondamine keskele*/
+    padding: 10px; /*vahe tekstist ääriseni*/
+}
+table#keeruline1, td{
+    /*html failis id=keeruline1*/
+    width: 50%;
+    border: 1px solid black;
+    text-align: center; /*teksti joondamine keskele*/
+    padding: 2px; /*vahe tekstist ääriseni*/
+    /*border-collapse: collapse;*/
+    background-color: lavenderblush;
+}
+table#keeruline2, table#keeruline2 td{
+    /*html failis id=keeruline1*/
+    width: 60%;
+    border: 1px solid black;
+    text-align: center; /*teksti joondamine keskele*/
+    padding: 2px; /*vahe tekstist ääriseni*/
+    /*border-collapse: collapse;*/
+    background-color: greenyellow;
+}
